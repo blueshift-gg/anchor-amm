@@ -8,7 +8,7 @@ mod instructions;
 pub use instructions::*;
 use errors::AmmError;
 
-declare_id!("22222222222222222222222222222222222222222222");
+declare_id!("4EvoCmJExHBdJPvyDP7YVt9qKuW53LKw8Sz9Xm7JzuL8");
 
 #[program]
 pub mod blueshift_anchor_amm {
